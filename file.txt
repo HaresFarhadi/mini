@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Farhadiqeshmi
 
+=======
+Hares Farhadiqeshmi
+>>>>>>> hares
